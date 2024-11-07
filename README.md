@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SanberCode Playground Boilerplate Repository
 
 ## Description
@@ -24,3 +25,6 @@ node filename.js
 ```
 
 Replace filename.js with the actual name of your JavaScript file.
+=======
+# API-automation
+>>>>>>> 194ffbb9413c26cbdaf322bf705adc3ca8ef293d

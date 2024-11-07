@@ -1,0 +1,21 @@
+{
+    "id": "1",
+    "name": "iwan-api-env",
+    "values": [
+      {
+        "key": "baseUrl",
+        "value": "https://simple-books-api.glitch.me", 
+        "enabled": true
+      },
+      {
+        "key": "authToken",
+        "value": "your-auth-token-here", 
+        "enabled": true
+      },
+      {
+        "key": "bookId",
+        "value": "1",
+        "enabled": true
+      }
+    ]
+  }
